@@ -18,13 +18,19 @@
 		text-align: center;
 		color: var(--main-text);
 		font-size: 90pt;
+		/*border-bottom: solid 1px;*/
+		width: 15%;
+		display: block;
+		margin-right: auto;
+		margin-left: auto;
 	}
 	
 	#searchbox{
 		width: 50%;
 		height: 4%;
-		border: none;
-		border-radius: 3px;
+		border: solid;
+		border-width: 0.1px;
+		border-color: rgba(255,255,255,0.1);
 		outline: none;
 		text-align: center;
 		background-color: rgba(7, 39, 28, 0.3);
