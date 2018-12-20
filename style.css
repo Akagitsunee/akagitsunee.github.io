@@ -12,6 +12,12 @@
 	body { 
 		background-image: url("background.jpg");
 	}
+
+    @media only screen and (max-width: 1920px) {
+        #stripe {
+            margin-top: 10%;
+        }
+    }
 	
 	#Title {
 		font-family: 'Kroftsmann', sans-serif;
