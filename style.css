@@ -13,7 +13,7 @@
 		background-image: url("background.jpg");
 	}
 
-    @media only screen and (max-width: 1920px) {
+    @media screen and (max-width: 1920px) {
         #stripe {
             margin-top: 10%;
         }
