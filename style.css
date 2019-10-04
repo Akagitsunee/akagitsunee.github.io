@@ -9,11 +9,11 @@
   --alt-text: rgb(182, 174, 174);
 }
 
-body::background @media screen and (max-width: 1920px) {
+/*body::background @media screen and (max-width: 1920px) {
   #stripe {
     margin-top: 9% !important;
   }
-}
+}*/
 
 body,
 html {
